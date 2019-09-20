@@ -1,3 +1,5 @@
+#基本變數 數字 文字
+
 print("ghskjdghjd")
 10 > 3
 
